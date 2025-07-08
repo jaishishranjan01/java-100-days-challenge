@@ -4,7 +4,7 @@
 
 ### **__Day1: Sequenced Collection__**
 
-**__Day2: Record Patterns__**
+###**__Day2: Record Patterns__**
 
 
 Record Patterns allow you to deconstruct records directly inside "instanceof" checks
